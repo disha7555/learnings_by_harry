@@ -1,0 +1,22 @@
+{
+  "name": "javascript_harry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disha7555/Javascript_with_code_with_harry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/disha7555/Javascript_with_code_with_harry/issues"
+  },
+  "homepage": "https://github.com/disha7555/Javascript_with_code_with_harry#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "description": ""
+}
